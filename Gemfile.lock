@@ -138,12 +138,8 @@ DEPENDENCIES
   learn-co
   rack (= 1.6.5)
   rspec
-
   shotgun
   sinatra
-
-RUBY VERSION
-   ruby 2.3.1p112
 
 BUNDLED WITH
    1.13.7
